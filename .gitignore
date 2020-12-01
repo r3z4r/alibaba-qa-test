@@ -1,0 +1,5 @@
+/node_modules
+.cypress.env
+debug.log
+cypress/videos
+cypress/screenshots

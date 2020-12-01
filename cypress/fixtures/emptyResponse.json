@@ -1,0 +1,14 @@
+{
+	"result": {
+		"hasLabel": true,
+		"isCompleted": true,
+		"departing": [],
+		"returning": []
+	},
+	"targetUrl": null,
+	"success": true,
+	"error": null,
+	"unauthorizedRequest": false,
+	"__wrapped": true,
+	"__traceId": "empty"
+}

@@ -1,0 +1,24 @@
+{
+	"name": "qa-master",
+	"version": "1.0.0",
+	"description": "alibaba cypress UI-test",
+	"main": "index.js",
+	"dependencies": {
+		"cypress": "^6.0.0"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "cypress open",
+		"cy:run": "cypress run"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/r3z4r/alibaba-qa-test.git"
+	},
+	"author": "reza",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/r3z4r/alibaba-qa-test/issues"
+	},
+	"homepage": "https://github.com/r3z4r/alibaba-qa-test#readme"
+}
